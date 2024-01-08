@@ -1,5 +1,3 @@
-# Bienvenido a mi portafolio
-
 ## Proyecto Frontend (React Vite)
 
 Este proyecto representa mi trabajo en el frontend, construido con React utilizando Vite como herramienta de desarrollo. He utilizado componentes reutilizables, React Hooks como `useState` y `useEffect`, además de Axios para la conexión a la base de datos y el manejo de peticiones HTTP.
