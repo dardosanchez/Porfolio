@@ -1,6 +1,4 @@
-# Portafolio de Dardo Sánchez
-
-¡Bienvenido a mi portafolio!
+# Bienvenido a mi portafolio
 
 ## Proyecto Frontend (React Vite)
 
